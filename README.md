@@ -1,1 +1,2 @@
-# implementasi
+NAMA : FRISKA AMELIA PUTRI
+NIM : 202512002
